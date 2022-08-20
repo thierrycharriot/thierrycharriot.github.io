@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Thierry | Portfolio</title>
-	<atom:link href="http://localhost/github-portfolio/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/github-portfolio</link>
+	<atom:link href="http://thierrycharriot.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>http://thierrycharriot.github.io</link>
 	<description></description>
 	<lastBuildDate>Thu, 18 Aug 2022 10:54:11 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,20 +21,20 @@
 	
 	<item>
 		<title>A propos</title>
-		<link>http://localhost/github-portfolio/2022/08/18/bonjour-tout-le-monde/</link>
-					<comments>http://localhost/github-portfolio/2022/08/18/bonjour-tout-le-monde/#comments</comments>
+		<link>http://thierrycharriot.github.io/2022/08/18/bonjour-tout-le-monde/</link>
+					<comments>http://thierrycharriot.github.io/2022/08/18/bonjour-tout-le-monde/#comments</comments>
 		
 		<dc:creator><![CDATA[bibi]]></dc:creator>
 		<pubDate>Thu, 18 Aug 2022 05:50:18 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">http://localhost/github-portfolio/?p=1</guid>
+		<guid isPermaLink="false">http://thierrycharriot.github.io/?p=1</guid>
 
 					<description><![CDATA[Bien que principalement orienté dans le domaine de la technique et de la maintenance, j’ai néanmoins parallèlement toujours souhaité m’exprimer dans la création.J’ai ainsi eu depuis longtemps une passion pour le web, son actualité ainsi que les nouvelles technologies.]]></description>
 										<content:encoded><![CDATA[
 <p>Bien que principalement orienté dans le domaine de la technique et de la maintenance, j’ai néanmoins parallèlement toujours souhaité m’exprimer dans la création.<br>J’ai ainsi eu depuis longtemps une passion pour le web, son actualité ainsi que les nouvelles technologies.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/github-portfolio/2022/08/18/bonjour-tout-le-monde/feed/</wfw:commentRss>
+					<wfw:commentRss>http://thierrycharriot.github.io/2022/08/18/bonjour-tout-le-monde/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

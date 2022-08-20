@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : A propos	</title>
-	<atom:link href="http://localhost/github-portfolio/2022/08/18/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/github-portfolio/2022/08/18/bonjour-tout-le-monde/</link>
+	<atom:link href="http://thierrycharriot.github.io/2022/08/18/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
+	<link>http://thierrycharriot.github.io/2022/08/18/bonjour-tout-le-monde/</link>
 	<description></description>
 	<lastBuildDate>Thu, 18 Aug 2022 10:54:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Par : Un commentateur ou commentatrice WordPress		</title>
-		<link>http://localhost/github-portfolio/2022/08/18/bonjour-tout-le-monde/#comment-1</link>
+		<link>http://thierrycharriot.github.io/2022/08/18/bonjour-tout-le-monde/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentateur ou commentatrice WordPress]]></dc:creator>
 		<pubDate>Thu, 18 Aug 2022 05:50:18 +0000</pubDate>
-		<guid isPermaLink="false">http://localhost/github-portfolio/?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://thierrycharriot.github.io/?p=1#comment-1</guid>
 
 					<description><![CDATA[Bonjour, ceci est un commentaire.
 Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.
