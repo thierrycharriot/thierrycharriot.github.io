@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thierry | Portfolio</title>
+	<atom:link href="http://localhost/github-portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/github-portfolio</link>
+	<description></description>
+	<lastBuildDate>Thu, 18 Aug 2022 10:54:11 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>A propos</title>
+		<link>http://localhost/github-portfolio/2022/08/18/bonjour-tout-le-monde/</link>
+					<comments>http://localhost/github-portfolio/2022/08/18/bonjour-tout-le-monde/#comments</comments>
+		
+		<dc:creator><![CDATA[bibi]]></dc:creator>
+		<pubDate>Thu, 18 Aug 2022 05:50:18 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://localhost/github-portfolio/?p=1</guid>
+
+					<description><![CDATA[Bien que principalement orienté dans le domaine de la technique et de la maintenance, j’ai néanmoins parallèlement toujours souhaité m’exprimer dans la création.J’ai ainsi eu depuis longtemps une passion pour le web, son actualité ainsi que les nouvelles technologies.]]></description>
+										<content:encoded><![CDATA[
+<p>Bien que principalement orienté dans le domaine de la technique et de la maintenance, j’ai néanmoins parallèlement toujours souhaité m’exprimer dans la création.<br>J’ai ainsi eu depuis longtemps une passion pour le web, son actualité ainsi que les nouvelles technologies.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/github-portfolio/2022/08/18/bonjour-tout-le-monde/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
