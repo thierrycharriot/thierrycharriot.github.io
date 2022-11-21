@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Commentaires sur : A propos	</title>
-	<atom:link href="https://thierrycharriot.github.io/2022/08/18/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thierrycharriot.github.io/2022/08/18/bonjour-tout-le-monde/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Thu, 18 Aug 2022 10:54:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Nov 2022 14:14:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Par : Un commentateur ou commentatrice WordPress		</title>
-		<link>https://thierrycharriot.github.io/2022/08/18/bonjour-tout-le-monde/#comment-1</link>
+		<link>./../index.html#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentateur ou commentatrice WordPress]]></dc:creator>
 		<pubDate>Thu, 18 Aug 2022 05:50:18 +0000</pubDate>

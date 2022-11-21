@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Thierry | Portfolio</title>
-	<atom:link href="https://thierrycharriot.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thierrycharriot.github.io</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Thu, 18 Aug 2022 10:54:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Nov 2022 14:14:06 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>A propos</title>
-		<link>https://thierrycharriot.github.io/2022/08/18/bonjour-tout-le-monde/</link>
-					<comments>https://thierrycharriot.github.io/2022/08/18/bonjour-tout-le-monde/#comments</comments>
+		<link>./../2022/08/18/bonjour-tout-le-monde/index.html</link>
+					<comments>./../2022/08/18/bonjour-tout-le-monde/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[bibi]]></dc:creator>
 		<pubDate>Thu, 18 Aug 2022 05:50:18 +0000</pubDate>
@@ -34,7 +34,7 @@
 <p>Bien que principalement orienté dans le domaine de la technique et de la maintenance, j’ai néanmoins parallèlement toujours souhaité m’exprimer dans la création.<br>J’ai ainsi eu depuis longtemps une passion pour le web, son actualité ainsi que les nouvelles technologies.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://thierrycharriot.github.io/2022/08/18/bonjour-tout-le-monde/feed/</wfw:commentRss>
+					<wfw:commentRss>./../2022/08/18/bonjour-tout-le-monde/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
