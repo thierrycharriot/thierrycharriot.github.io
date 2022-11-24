@@ -1,21 +1,21 @@
 /*!
-Theme Name: Scaffold S portfolio
+Theme Name: Underscores Bootstrap Portfolio
 Theme URI: http://underscores.me/
 Author: Thierry Charriot
 Author URI: http://underscores.me/
-Description: Custom theme: Scaffold S Bootstrap, developed by Thierry Charriot
+Description: Custom theme: Underscores Bootstrap, developed by Thierry Charriot
 Version: 1.0.0
 Tested up to: 5.4
 Requires PHP: 5.6
 License: GNU General Public License v2 or later
 License URI: LICENSE
-Text Domain: scaffold-s-portfolio
+Text Domain: underscores-bootstrap-portfolio
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned.
 
-Scaffold S Bootstrap is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores Bootstrap is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
 Underscores is distributed under the terms of the GNU GPL v2 or later.
 
 Normalizing styles have been helped along thanks to the fine work of
@@ -55,26 +55,32 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 --------------------------------------------------------------*/
 
 /* Document
-	 ========================================================================== */
-
+	========================================================================== */
+/*
 .site-main {
-	min-height: 18vh;
+	min-height: 100vh;
 }
-
+*/
 /* Sections
-	 ========================================================================== */
+		========================================================================== */
 
 /* Grouping content
-	 ========================================================================== */
+		========================================================================== */
 
 /* Text-level semantics
-	 ========================================================================== */
+		========================================================================== */
 
 /* Embedded content
-	 ========================================================================== */
+		========================================================================== */
 
 img {
 	max-width: 100%;
+	margin: 0 auto;
+}
+iframe {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /* https://www.w3schools.com/howto/howto_css_parallax.asp */
@@ -93,37 +99,37 @@ img {
 }
 .parallax-001 {
 	/* The image used */
-	background-image: url("./img/parallax-001.png");
+	background-image: url("http://thierrycharriot.github.io/app/themes/underscores-bootstrap-portfolio/img/parallax-001.png");
 }
 .parallax-002 {
 	/* The image used */
-	background-image: url("./img/parallax-002.png");
+	background-image: url("http://thierrycharriot.github.io/app/themes/underscores-bootstrap-portfolio/img/parallax-002.png");
 }
 .parallax-003 {
 	/* The image used */
-	background-image: url("./img/parallax-003.png");
+	background-image: url("http://thierrycharriot.github.io/app/themes/underscores-bootstrap-portfolio/img/parallax-003.png");
 }
 .parallax-004 {
 	/* The image used */
-	background-image: url("./img/parallax-004.png");
+	background-image: url("http://thierrycharriot.github.io/app/themes/underscores-bootstrap-portfolio/img/parallax-004.png");
 }
 .parallax-005 {
 	/* The image used */
-	background-image: url("./img/parallax-005.png");
+	background-image: url("http://thierrycharriot.github.io/app/themes/underscores-bootstrap-portfolio/img/parallax-005.png");
 }
 .parallax-006 {
 	/* The image used */
-	background-image: url("./img/parallax-006.png");
+	background-image: url("http://thierrycharriot.github.io/app/themes/underscores-bootstrap-portfolio/img/parallax-006.png");
 }
 
 /* Forms
-	 ========================================================================== */
+		========================================================================== */
 
 /* Interactive
-	 ========================================================================== */
+		========================================================================== */
 
 /* Misc
-	 ========================================================================== */
+		========================================================================== */
 
 /* Box sizing
 --------------------------------------------- */
@@ -150,15 +156,15 @@ a:hover {
 	text-align: center;
 }
 .site-footer h3 {
-    font-size: 1.5rem;
-    padding-left: 0.9rem;
+	font-size: 1.5rem;
+	padding-left: 0.9rem;
 }
 .site-footer ul {
-    padding-left: 0;
+	padding-left: 0;
 }
 .site-footer li {
-    list-style: none;
-    padding-left: 1.5rem;
+	list-style: none;
+	padding-left: 1.5rem;
 }
 .site-footer a {
 	color: #ccc;
@@ -171,10 +177,6 @@ a:hover {
 	margin-bottom: 0;
 }
 
-.card img {
-	/*display: none;*/
-	height: 39%;
-}
 /* Links
 --------------------------------------------- */
 
@@ -186,7 +188,7 @@ textarea {
 }
 
 .wp-block-search__label {
-    display: none;
+	display: none;
 }
 
 /*--------------------------------------------------------------
@@ -202,6 +204,11 @@ textarea {
 
 /* Posts and pages
 --------------------------------------------- */
+
+.card-header, .card-footer {
+	background-color: #fff;
+	border: none;
+}
 
 /* Comments
 --------------------------------------------- */
@@ -219,8 +226,8 @@ aside ul {
 .post-thumbnail img {
 	max-width: 100%;
 	height: auto;
-	margin: 1.5rem auto;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin: 0 auto;
+	box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.3), 0 6px 6px 0 rgba(0, 0, 0, 0.18);
 }
 
 /* Captions
@@ -237,7 +244,7 @@ aside ul {
 # Utilities
 --------------------------------------------------------------*/
 
-#bouton-remonter {
+#up-button {
 	display: none;
 	position: fixed;
 	bottom: 90px;
@@ -245,7 +252,7 @@ aside ul {
 	z-index: 99;
 	opacity: 0.6;
 }
-#bouton-remonter:hover {
+#up-button:hover {
 	transition-duration: 0.7s;
 	opacity: 0.3;
 }
